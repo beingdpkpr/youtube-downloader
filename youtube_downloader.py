@@ -5,6 +5,7 @@ from pathlib import Path
 import zipfile
 
 
+
 class YouTubeDownloader:
     def __init__(self, download_path="downloads"):
         """Initialize downloader with a download directory."""
